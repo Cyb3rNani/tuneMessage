@@ -1,1 +1,1 @@
-{ "message": "TuneMuso v2.19.4 available, run logging (beta), 19.3 CRASHES when switching off from single year mode with measurements loaded in. 19.4 fixes! Also adds year range selector for export and Nash-Sutcliff metric for the logging section (See your version number in the settings > info)" }
+{ "message": "TuneMuso v2.19.5 available, run logger, Nash-Sutcliff metric for logger. 19.4 CRASHES if parameters_soil.csv doesn't exist and you press 'calibration', 19.5 fixes this! (See your version number in the settings > info)" }
