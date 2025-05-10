@@ -1,1 +1,1 @@
-{ "message": "TuneMuso v2.19.6 available, run logger, Nash-Sutcliff metric for logger. Fixed meas mapping for new variables. Additional infos boxes for Edit Simulation Data and Create Variable. 19.6 fixes a bug when if you deleted all the meas columns that app would crash. Now it handles the column deletions in general more gracefully (See your version number in the settings > info)" }
+{ "message": "TuneMuso v2.20 available, spinup run option available (See your version number in the settings > info)" }
